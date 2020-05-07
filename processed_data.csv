@@ -689,3 +689,773 @@ P-406,38,Female,Vijayapura,Contact of P-221,"Designated Hospital,
 Vijayapura.",2020-04-20
 P-407,14,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
 Vijayapura.",2020-04-20
+P-409,67,Female,"Bantwala, Dakshina 
+Kannada",SARI,"Designated Hospital, 
+Dakshina Kannada",2020-04-21
+P-410,18,Female,Vijayapura,Contact of P-306,"Designated Hospital, 
+Vijayapura",2020-04-21
+P-411,30,Female,Vijayapura,Contact of P-306,"Designated Hospital, 
+Vijayapura",2020-04-21
+P-412,29,Male,Kalaburagi,"Influenza Like 
+Illness (ILI)","Designated Hospital, 
+Kalaburagi",2020-04-21
+P-413,61,Male,Kalaburagi,"Contact under 
+Tracing","Designated Hospital, 
+Kalaburagi",2020-04-21
+P-414,80,Male,Kalaburagi,SARI,"Expired at Designated 
+Hospital, Kalaburagi",2020-04-21
+P-415,18,Female,Vijayapura,Contact of P-306,"Designated Hospital, 
+Vijayapura",2020-04-21
+P-416,26,Male,"Nanjanagudu, 
+Mysuru","Secondary 
+Contact of P-52","Designated Hospital, 
+Mysuru",2020-04-21
+P-417,26,Male,"Nanjanagudu, 
+Mysuru","Secondary 
+Contact of P-52","Designated Hospital, 
+Mysuru",2020-04-21
+P-418,25,Female,Belagavi,Contact of P-293,"Designated Hospital, 
+Belagavi",2020-04-21
+P-419,54,Male,Bengaluru Urban,SARI,"Designated Hospital, 
+Bengaluru Urban.",2020-04-22
+P-420,28,Female,Bengaluru Urban,Contact of P-208,"Designated Hospital, 
+Bengaluru Urban.",2020-04-22
+P-421,46,Female,Kalaburagi,Contact of P-222,"Designated Hospital, 
+Kalaburagi.",2020-04-22
+P-422,57,Male,Kalaburagi,SARI,"Designated Hospital, 
+Kalaburagi.",2020-04-22
+P-423,35,Female,Kalaburagi,Contact of P-393,"Designated Hospital, 
+Kalaburagi.",2020-04-22
+P-424,"0.4 
+( Four 
+Months )",Male,Kalaburagi,Contact of P-395,"Designated Hospital, 
+Kalaburagi.",2020-04-22
+P-425,26,Female,Kalaburagi,Contact of P-395,"Designated Hospital, 
+Kalaburagi.",2020-04-22
+P-426,56,Male,"Nanjanagudu, 
+Mysuru",Contact of P-383,"Designated Hospital, 
+Mysuru.",2020-04-22
+P-427,32,Male,"Nanjanagudu, 
+Mysuru","Seconadry Contact of 
+P-52","Designated Hospital, 
+Mysuru.",2020-04-22
+P-428,32,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-04-23
+P-429,25,Female,Vijayapura,"Contact under 
+Tracing","Designated Hospital, 
+Vijayapura",2020-04-23
+P-430,30,Female,"Hubli, Dharwada",Contact of P-236,"Designated Hospital, 
+Dharwada",2020-04-23
+P-431,13,Female,"Hubli, Dharwada",Contact of P-236,"Designated Hospital, 
+Dharwada",2020-04-23
+P-432,78,Female,"Bantwala, 
+Dakshina Kannada",Contact of P-390,"Designated Hospital, 
+Dakshina Kannada",2020-04-23
+P-433,30,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-434,30,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-435,22,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-436,40,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-437,30,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-438,25,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-439,37,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-440,43,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-441,24,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-442,47,Male,Mandya,"Contact of P-171 & 
+P-371","Designated Hospital, 
+Mandya",2020-04-23
+P-443,28,Female,"Malavalli, Mandya",Contact of P-179,"Designated Hospital, 
+Mandya",2020-04-23
+P-444,41,Male,Bengaluru Urban,Contact of P-252,"Designated Hospital, 
+Bengaluru Urban",2020-04-23
+P-445,32,Male,Kalaburagi,Contact of P-413,"Designated Hospital, 
+Kalaburagi",2020-04-23
+P-446,49,Female,Bengaluru Urban,"Influenza Like Illness 
+(ILI)","Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-447,32,Male,Tumakuru,"Travel History to 
+Surat, Gujarat","Designated Hospital, 
+Tumakuru",2020-04-24
+P-448,10,Female,"Raibhag, 
+Belagavi",Contact of P-150,"Designated Hospital, 
+Belagavi",2020-04-24
+P-449,30,Male,Bengaluru Urban,"Contact of 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-450,22,Male,Bengaluru Urban,"Contact of 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-451,39,Male,Chikkaballapura,Contact of P-250,"Designated Hospital, 
+Chikkaballapura",2020-04-24
+P-452,35,Male,Bengaluru Urban,"Contact of 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-453,32,Male,Bengaluru Urban,"Contact of 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-454,23,Male,Bengaluru Urban,"Contact of 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-455,28,Male,"Mudhol, 
+Bagalakote",Contact of P-380,"Designated Hospital, 
+Bagalakote",2020-04-24
+P-456,46,Male,"Jamkhandi, 
+Bagalakote","Influenza Like Illness 
+(ILI)","Designated Hospital, 
+Bagalakote",2020-04-24
+P-457,17,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-04-24
+P-458,26,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-459,35,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-460,31,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-461,32,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-462,24,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-463,15,Male,"Raibhag, 
+Belagavi",Contact of P-148,"Designated Hospital, 
+Belagavi",2020-04-24
+P-464,60,Male,"Malavalli, Mandya",Contact of P-179,"Designated Hospital, 
+Mandya",2020-04-24
+P-465,45,Female,Bengaluru Urban,SARI,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-466,50,Male,Bengaluru Urban,SARI,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-467,27,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-04-24
+P-468,14,Male,"Mudhol, 
+Bagalakote",Contact of P-380,"Designated Hospital, 
+Bagalakote",2020-04-24
+P-469,26,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-470,20,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-471,22,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-472,58,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-473,38,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-474,44,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-24
+P-475,34,Male,Bengaluru Urban,"Visit to BBMP 
+Containment  Zones","Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-476,37,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-477,21,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-478,17,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-479,19,Female,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-480,28,Male,Bengaluru Urban,Contact of P-419,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-481,37,Male,Mandya,Contact of P-78,"Designated Hospital, 
+Mandya",2020-04-25
+P-482,45,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-483,38,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-484,80,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-485,55,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-486,42,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-487,39,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-488,18,Male,Chikkaballapura,"Travel History to 
+Hindupura & 
+Anantapura, AP.","Designated Hospital, 
+Chikkaballapura",2020-04-25
+P-489,33,Female,"Bantawala, 
+Dakshina 
+Kannada",Contact of P-409,"Designated Hospital, 
+Dakshina Kannada",2020-04-25
+P-490,52,Female,Bengaluru Urban,"Secondary Contact   
+of P-419","Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-491,06,Male,Bengaluru Urban,"Secondary Contact   
+of P-419","Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-492,90,Male,Bengaluru Urban,"Secondary Contact   
+of P-419","Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-493,27,Female,Bengaluru Urban,"Secondary Contact   
+of P-419","Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-494,20,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-495,08,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-496,30,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact of 
+P-128","Designated Hospital, 
+Belagavi",2020-04-25
+P-497,50,Female,"Nanjangudu, 
+Mysuru",Contact of P-382,"Designated Hospital, 
+Mysuru",2020-04-25
+P-498,27,Male,Bengaluru Urban,Contact of P-465,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-499,27,Male,Bengaluru Urban,Contact of P-465,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-500,66,Female,Bengaluru Urban,Contact of P-465,"Designated Hospital, 
+Bengaluru Urban",2020-04-25
+P-501,47,Female,"Panemangalore, 
+Dakshina 
+Kannada",Contact of P-432,"D
+esignated Hospital, 
+Dakshina Kannada",2020-04-26
+P-502,65,Female,Kalaburgi,Contact of P-422,"D
+esignated Hospital, 
+Kalaburgi",2020-04-26
+P-503,07,Male,Kalaburgi,"Secondary Contact of 
+P-425","D
+esignated Hospital, 
+Kalaburgi",2020-04-26
+P-504,13,Male,Bengaluru Urban,"Influenza Like Illness 
+(ILI)","Designated Hospital, 
+Bengaluru Urban",2020-04-27
+P-505,50,Male,"Nagamangala, 
+Mandya","Travel History to 
+Mumbai, 
+Maharashtra","Designated Hospital, 
+Mandya",2020-04-27
+P-506,45,Male,"Dakshina 
+Kannada","Contact of P-432 & 
+P-507","Designated Hospital, 
+Dakshina Kannada",2020-04-27
+P-507,80,Female,"Dakshina 
+Kannada",Contact of P-432,"Designated Hospital, 
+Dakshina Kannada",2020-04-27
+P-508,32,Female,"Jamkhandi, 
+Bagalakote",Contact of P-456,"Designated Hospital, 
+Bagalakote",2020-04-27
+P-509,21,Female,"Jamkhandi, 
+Bagalakote",Contact of P-456,"Designated Hospital, 
+Bagalakote",2020-04-27
+P-510,45,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-04-27
+P-511,27,Male,Vijayapura,"Contact under 
+Tracing","Designated Hospital, 
+Vijayapura",2020-04-27
+P-512,22,Female,"Mallavalli, 
+Mandya",Contact of P-371,"Designated Hospital, 
+Mandya",2020-04-27
+P-513,48,Male,"Bengaluru 
+Urban","Contact - 
+Containment Zone BBMP 
+Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-28
+P-514,75,Male,Gadag,SARI,"Designated Hospital, 
+Gadag",2020-04-28
+P-515,55,Male,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-28
+P-516,40,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-28
+P-517,43,Male,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-28
+P-518,28,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-28
+P-519,45,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-28
+P-520,22,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-28
+P-521,20,Female,"Jamakhandi, 
+Bagalakote",Contact of P-381,"Designated Hospital, 
+Bagalakote",2020-04-28
+P-522,11,Male,"Jamakhandi, 
+Bagalakote",Secondary Contact of P-456,"Designated Hospital, 
+Bagalakote",2020-04-28
+P-523,22,Male,"Jamakhandi, 
+Bagalakote",Contact of P-381,"Designated Hospital, 
+Bagalakote",2020-04-28
+P-524,12,Male,"Hukkeri, 
+Belagavi",Contact of P-293,"Designated Hospital, 
+Belagavi",2020-04-29
+P-525,4.6,Female,Kalaburgi,Contact of P-395,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-526,28,Male,Kalaburgi,Contact of P-515,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-527,14,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-528,22,Male,Kalaburgi,Contact of P-205,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-529,40,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-530,20,Male,Kalaburgi,Contact of P-205,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-531,17,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-532,12,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-04-29
+P-533,35,Female,Davanagere,"Influenza Like 
+Illness(ILI)","Designated Hospital, 
+Davanagere",2020-04-29
+P-534,26,Male,"Nanjanagudu
+Mysuru",Contact of P-346,"Designated Hospital, 
+Mysuru",2020-04-29
+P-535,73,Male,Tumakuru,SARI,"Designated Hospital, 
+Tumakuru",2020-04-29
+P-536,58,Female,"Dakshina 
+Kannada",Contact of P-501,"Designated Hospital, 
+Dakshina Kannada",2020-04-30
+P-537,62,Male,Vijayapura,Contact of P-221,"Designated Hospital,  
+Vijayapura",2020-04-30
+P-538,33,Female,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-04-30
+P-539,24,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-496, P-483 &   
+P-484","Designated Hospital,  
+Belagavi",2020-04-30
+P-540,27,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-483","Designated Hospital, 
+ Belagavi",2020-04-30
+P-541,09,Male,"Hukkeri, 
+Belagavi",Contact of P-293,"Designated Hospital,  
+Belagavi",2020-04-30
+P-542,75,Female,"Hukkeri, 
+Belagavi",Contact of P-293,"Designated Hospital,  
+Belagavi",2020-04-30
+P-543,24,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-486","Designated Hospital,  
+Belagavi",2020-04-30
+P-544,18,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-496","Designated Hospital,  
+Belagavi",2020-04-30
+P-545,48,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-494","Designated Hospital, 
+Belagavi",2020-04-30
+P-546,50,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-483","Designated Hospital, 
+Belagavi",2020-04-30
+P-547,27,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-496 & 483","Designated Hospital, 
+Belagavi",2020-04-30
+P-548,43,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-484","Designated Hospital, 
+Belagavi",2020-04-30
+P-549,16,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-486","Designated Hospital, 
+Belagavi",2020-04-30
+P-550,36,Female,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-486","Designated Hospital, 
+Belagavi",2020-04-30
+P-551,08,Female,"Hukkeri, 
+Belagavi",Contact of P-293,"Designated Hospital, 
+Belagavi",2020-04-30
+P-552,36,Male,"Hirebagewadi, 
+Belagavi","Secondary Contact 
+of P-496","Designated Hospital, 
+Belagavi",2020-04-30
+P-553,65,Female,Tumkuru,Contact of P-535,"Designated Hospital, 
+Tumkuru",2020-04-30
+P-554,20,Male,"Bengaluru 
+Urban","Contact - 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-30
+P-555,28,Male,"Bengaluru 
+Urban","Contact - 
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-04-30
+P-556,69,Male,Davanagere,SARI,"Designated Hospital, 
+Davanagere",2020-04-30
+P-557,63,Male,"Bengaluru 
+Urban",SARI,"Private Hospital, 
+Bengaluru Urban",2020-04-30
+P-558,35,Female,Kalaburgi,Contact of P-314,"Designated Hospital, 
+Kalaburgi.",2020-04-30
+P-559,15,Male,"Bengaluru 
+Urban",Contact of P-292,"Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-560,60,Female,"Bengaluru 
+Urban",Contact of P-292,"Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-561,04,Female,"Bengaluru 
+Urban",Contact of P-292,"Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-562,16,Female,"Bengaluru 
+Urban",Contact of P-292,"Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-563,13,Female,"Bengaluru 
+Urban",Contact of P-292,"Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-564,35,Male,"Bengaluru 
+Urban",Contact of P-281,"Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-565,64,Female,"Bengaluru 
+Urban","Influenza Like 
+Illness (ILI)","Designated Hospital, 
+Bengaluru Urban.",2020-04-30
+P-566,25,Male,Mandya,"Travel History to 
+Mumbai, 
+Maharashtra","Designated Hospital, 
+Mandya",2020-05-01
+P-567,24,Female,Mandya,"Travel History to 
+Mumbai, 
+Maharashtra","Designated Hospital, 
+Mandya",2020-05-01
+P-568,27,Male,Mandya,"Travel History to 
+Mumbai, 
+Maharashtra","Designated Hospital, 
+Mandya",2020-05-01
+P-569,30,Female,"K R Pete, Mandya","Contact of P-566,   
+P-567 & P-568.","Designated Hospital, 
+Mandya",2020-05-01
+P-570,19,Male,"Malavalli, Mandya",Contact of P-179,"Designated Hospital, 
+Mandya",2020-05-01
+P-571,32,Female,"Malavalli, Mandya",Contact of P-179,"Designated Hospital, 
+Mandya",2020-05-01
+P-572,13,Male,"Malavalli, Mandya",Contact of P-179,"Designated Hospital, 
+Mandya",2020-05-01
+P-573,12,Male,"Malavalli, Mandya",Contact of P-179,"Designated Hospital, 
+Mandya",2020-05-01
+P-574,55,Male,"Raibhag, Belagavi","Secondary Contact 
+of P-301","Designated Hospital, 
+Belagavi",2020-05-01
+P-575,30,Female,"Raibhag, Belagavi","Secondary Contact 
+of P-301","Designated Hospital, 
+Belagavi",2020-05-01
+P-576,50,Male,"Raibhag, Belagavi","Secondary Contact 
+of P-301","Designated Hospital, 
+Belagavi",2020-05-01
+P-577,54,Male,Vijayapura,Contact of P-510,"Designated Hospital, 
+Vijayapura",2020-05-01
+P-578,69,Male,"Bantwal,      
+Dakshina Kannada",Contact of P-390,"Designated Hospital, 
+Dakshina Kannada",2020-05-01
+P-579,62,Male,Dakshina Kannada,Contact of P-536,"Designated Hospital, 
+Dakshina Kannada",2020-05-01
+P-580,31,Female,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-01
+P-581,26,Female,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-01
+P-582,34,Male,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-01
+P-583,01,Male,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-01
+P-584,18,Female,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-01
+P-585,16,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-01
+P-586,40,Female,Chikkaballapura,Contact of P-250,"Designated Hospital, 
+Chikkaballapura",2020-05-01
+P-587,56,Male,Kalaburgi,SARI,"Designated Hospital, 
+Kalaburgi",2020-05-01
+P-588,20,Female,Kalaburgi,Contact of P-425,"Designated Hospital, 
+Kalaburgi",2020-05-01
+P-589,57,Male,"Hubli, Dharwad","Influenza Like 
+Illness (ILI)","Designated Hospital, 
+Dharwad",2020-05-01
+P-590,82,Male,Bidar,SARI,"Died at Designated 
+Hospital, Bidar",2020-05-02
+P-591,40,Male,Tumkuru,"Contact of P-535 & 
+553.","Designated Hospital, 
+Tumkuru",2020-05-02
+P-592,29,Female,Tumkuru,"Contact of P-535 & 
+553.","Designated Hospital, 
+Tumkuru",2020-05-02
+P-593,54,Male,Chikkaballapura,"Secondary Contact 
+of P-250","Designated Hospital, 
+Chikkaballapura",2020-05-02
+P-594,22,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-05-02
+P-595,45,Male,Vijayapura,Contact of P-221,"Designated Hospital, 
+Vijayapura",2020-05-02
+P-596,23,Male,Belagavi,"Secondary Contact 
+of P-128","Designated Hospital, 
+Belagavi",2020-05-02
+P-597,45,Female,Bagalkot,Contact of P-381,"Designated Hospital, 
+Bagalkot",2020-05-02
+P-598,32,Female,Bengaluru Urban,Contact of P-444,"Designated Hospital, 
+Bengaluru Urban",2020-05-02
+P-599,38,Female,Bengaluru Urban,Contact of P-565,"Designated Hospital, 
+Bengaluru Urban",2020-05-02
+P-600,26,Female,Bengaluru Urban,Contact of P-565,"Designated Hospital, 
+Bengaluru Urban",2020-05-02
+P-601,30,Male,Bengaluru Urban,Contact of P-565,"Designated Hospital, 
+Bengaluru Urban",2020-05-02
+P-602,13,Female,Kalaburgi,Contact of P-532,"Designated Hospital, 
+Kalaburgi",2020-05-03
+P-603,54,Male,Kalaburgi,Contact of P-532,"Designated Hospital, 
+Kalaburgi",2020-05-03
+P-604,41,Male,Kalaburgi,SARI,"Designated Hospital, 
+Kalaburgi",2020-05-03
+P-605,68,Male,"Mudhol, 
+Bagalakote",Contact of P-380,"Designated Hospital, 
+Bagalakote",2020-05-03
+P-606,60,Female,"Mudhol, 
+Bagalakote",Contact of P-380,"Designated Hospital, 
+Bagalakote",2020-05-03
+P-607,23,Female,"Badami, Bagalakote","SARI (Under 
+Investigation)","Designated Hospital, 
+Dharwad",2020-05-03
+P-608,24,Male,Bengaluru Urban,"Contact –  
+Containment Zone 
+BBMP Ward-135","Designated Hospital, 
+Bengaluru Urban",2020-05-03
+P-609,35,Female,Kalaburgi,"Influenza Like Illness 
+(ILI)  
+(Under Investigation)","Designated Hospital, 
+Kalaburgi",2020-05-03
+P-610,78,Male,Kalaburgi,"Influenza Like Illness 
+(ILI)  
+(Under Investigation)","Designated Hospital, 
+Kalaburgi",2020-05-03
+P-611,22,Male,Kalaburgi,"Contact Under 
+Investigation","Designated Hospital, 
+Kalaburgi",2020-05-03
+P-612,45,Female,Bengaluru Urban,Contact of P-350,"Designated Hospital, 
+Bengaluru Urban",2020-05-03
+P-613,24,Female,Bengaluru Urban,Contact of P-350,"Designated Hospital, 
+Bengaluru Urban",2020-05-03
+P-614,45,Female,Bengaluru Urban,Contact of P-350,"Designated Hospital, 
+Bengaluru Urban",2020-05-03
+P-615,30,Male,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-04
+P-616,52,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-617,38,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-618,32,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-619,35,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-620,32,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-621,12,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-622,07,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-623,38,Male,Davanagere,"Influenza Like 
+Illness (ILI)","Designated Hospital, 
+Davanagere",2020-05-04
+P-624,49,Female,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-04
+P-625,27,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-626,25,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-627,33,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-628,62,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-629,34,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-630,20,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-631,22,Female,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-632,06,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-633,17,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-634,42,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-635,11,Male,Davanagere,Contact of P-533,"Designated Hospital, 
+Davanagere",2020-05-04
+P-636,30,Male,Chikkaballapura,Contact of P-586,"Designated Hospital, 
+Chikkaballapura",2020-05-04
+P-637,20,Female,Mandya,"Travel History to 
+Mumbai, 
+Maharashtra.","Designated Hospital, 
+Mandya",2020-05-04
+P-638,19,Female,Mandya,"Travel History to 
+Mumbai, 
+Maharashtra.","Designated Hospital, 
+Mandya",2020-05-04
+P-639,32,Male,"Savanuru, Haveri","Travel History to 
+Mumbai, 
+Maharashtra.","Designated Hospital, 
+Haveri",2020-05-04
+P-640,62,Female,Vijayapura,"Secondary 
+Contact of P-228","Designated Hospital, 
+Vijayapura",2020-05-04
+P-641,36,Female,Kalaburgi,Contact of P-604,"Designated Hospital, 
+Kalaburgi",2020-05-04
+P-642,37,Male,"Chincholi, 
+Kalaburgi","Travel History to 
+Hyderabad, 
+Telangana.","Designated Hospital, 
+Kalaburgi",2020-05-04
+P-643,35,Female,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-644,46,Female,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-645,50,Female,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-646,16,Male,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-647,72,Female,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-648,22,Male,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-649,60,Male,Bidar,Contact of P-590,"Designated Hospital, 
+Bidar",2020-05-04
+P-650,40,Male,Bengaluru Urban,"Contact Under 
+Tracing","Designated Hospital, 
+Bengaluru Urban",2020-05-04
+P-651,48,Female,Davanagere,"Secondary 
+Contact of P-533","Designated Hospital, 
+Davanagere",2020-05-04
+P-652,30,Female,Bengaluru Urban,"Contact under 
+Tracing","Private Hospital, 
+Bengaluru Urban",2020-05-05
+P-653,34,Male,Bengaluru Urban,Contact of P-420,"Designated Hospital, 
+Bengaluru Urban",2020-05-05
+P-654,45,Male,Bengaluru Urban,"Influenza Like 
+Illness (ILI).","Designated Hospital, 
+Bengaluru Urban",2020-05-05
+P-655,29,Female,Bagalakote,"Contact of P-367 
+& P-368.","Designated Hospital, 
+Bagalakote",2020-05-05
+P-656,29,Male,Bagalakote,"Contact of P-367 
+& P-368","Designated Hospital, 
+Bagalakote",2020-05-05
+P-657,43,Male,Ballari,"Travel history to 
+Uttarakhand.","Designated Hospital, 
+Ballari",2020-05-05
+P-658,51,Male,"Dakshina 
+Kannada",Contact of P-536,"Designated Hospital, 
+Dakshina Kannada",2020-05-05
+P-659,18,Female,"Bhatkal, Uttara 
+Kannada","Influenza Like 
+Illness (ILI)","Designated Hospital, 
+Bhatkal, Uttara 
+Kannada",2020-05-05
+P-660,30,Male,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-05
+P-661,25,Male,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-05
+P-662,50,Female,Davanagere,"Secondary 
+Contact of P-556","Expired at 
+Designated Hospital, 
+Davanagere",2020-05-05
+P-663,51,Male,Davanagere,"Secondary 
+Contact of P-556","Designated Hospital, 
+Davanagere",2020-05-05
+P-664,48,Male,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-665,52,Female,Davanagere,Contact of P-556,"Designated Hospital, 
+Davanagere",2020-05-05
+P-666,36,Female,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-667,15,Female,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-668,19,Female,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-669,27,Male,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-670,42,Female,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-671,05,Male,Davanagere,Contact of P-581,"Designated Hospital, 
+Davanagere",2020-05-05
+P-672,40,Male,"Savanur, Haveri",Contact of P-639,"Designated Hospital, 
+Haveri",2020-05-05
+P-673,26,Male,Dharwad,"Travel History to 
+Mumbai, 
+Maharashtra","Designated Hospital, 
+Dharwad",2020-05-05
+P-674,11,Female,"Dakshina 
+Kannada",Contact of P-536,"Designation Hospital, 
+Dakshina Kannada",2020-05-06
+P-675,35,Female,"Dakshina 
+Kannada",Contact of P-536,"Designation Hospital, 
+Dakshina Kannada",2020-05-06
+P-676,16,Female,"Bantwal, 
+Dakshina 
+Kannada",Contact of P-390,"Designation Hospital, 
+Dakshina Kannada",2020-05-06
+P-677,40,Female,Bengaluru Urban,Contact of P-654,"Designation Hospital, 
+Bengaluru Urban",2020-05-06
+P-678,25,Male,Bengaluru Urban,Contact of P-654,"Designation Hospital, 
+Bengaluru Urban",2020-05-06
+P-679,52,Male,Kalaburgi,Contact of P-610,"Designation Hospital, 
+Kalaburgi",2020-05-06
+P-680,18,Female,"Badami, 
+Bagalakote","Influenza Like 
+Illness (ILI)","Designation Hospital, 
+Bagalakote",2020-05-06
+P-681,45,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-682,55,Female,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-683,26,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-684,47,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-685,30,Female,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-686,15,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-687,40,Female,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-688,23,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-689,10,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-690,32,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-691,30,Male,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-692,16,Female,"Badami, 
+Bagalakote",Contact of P-607,"Designation Hospital, 
+Bagalakote",2020-05-06
+P-693,35,Female,Vijayapura,Contact of P-221,"Designation Hospital, 
+Vijayapura",2020-05-06
